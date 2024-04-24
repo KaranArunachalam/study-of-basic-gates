@@ -66,14 +66,72 @@ Y= A⊕B
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: RegisterNumber: 
- 
-**Logic symbol & Truthtable**
+# Developed by: Karan A
+# register no: 212223230099
+# program:
+![alt text](image.png)
+# Logic symbol & Truthtable
+![alt text](image-1.png)
+# RTL
+![alt text](image-2.png)
+# RTL realization Output:
+![alt text](image-3.png)
 
-**RTL realization Output:** 
+# OR GATE:
+# program:
+![alt text](image-4.png)
+# Logic symbol & Truthtable:
+![alt text](image-5.png)
+# RTL:
+![alt text](image-6.png)
+# RTL realization Output:
+![alt text](image-7.png)
+# NOT GATE:
+# program:
+![alt text](image-8.png)
+# Logic symbol & Truthtable:
+![alt text](image-9.png)
+# RTL:
+![alt text](image-10.png)
 
-**RTL**
+# RTL realization Output:
+![alt text](image-11.png)
+# NAND GATE:
+# program:
+![alt text](image-12.png)
+# Logic symbol & Truthtable:
+![alt text](image-13.png)
+# RTL:
+![alt text](image-14.png)
 
-**Result:**
-
-
+# RTL realization Output:
+![alt text](image-15.png)
+# NOR GATE:
+# program:
+![alt text](image-16.png)
+# Logic symbol & Truthtable:
+![alt text](image-17.png)
+# RTL:
+![alt text](image-18.png)
+# RTL realization Output:
+![alt text](image-19.png)
+# EX-OR GATE:
+# program :
+![alt text](image-20.png)
+# Logic symbol & Truthtable:
+![alt text](image-21.png)
+# RTL:
+![alt text](image-22.png)
+# RTL realization Output:
+![alt text](image-23.png)
+# EX-NOR:
+# program:
+![alt text](image-24.png)
+# Logic symbol & Truthtable:
+![alt text](image-25.png)
+# RTL:
+![alt text](image-26.png)
+# RTL realization Output:
+![alt text](image-27.png)
+# Result:
+Thus,truth table of logic gates in Quartus II using Verilog programming is executed successfully and verified
